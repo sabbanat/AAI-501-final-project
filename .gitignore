@@ -1,0 +1,6 @@
+# Credentials stay on the local machine.
+kaggle.json
+access_token
+.env
+.env.*
+**/.kaggle/
